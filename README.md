@@ -1,3 +1,3 @@
 # PyTorch
 
-Samples for PyTorch.
+Samples for PyTorch based on GPU.
